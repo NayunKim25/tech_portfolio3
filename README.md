@@ -1,6 +1,6 @@
 # tech_portfolio3
 
-### 2. KAMP_project Data Analysis
+### KAMP_project Data Analysis
 
 #### "데이터 활용 및 분석 중 데이터사이언스 관련 공모전 참여를 통한 공개 데이터의 활용 및 분석 능력"
 
